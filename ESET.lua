@@ -14967,9 +14967,9 @@ If you *want* to get the bot phone number , send command *Botphone* .]], 1, "md"
         end
         if is_leader(msg) and (text:match("^[Uu]pdate$") or text:match("^بروزرسانی$")) then
           if not database:get("lang:gp:" .. msg.chat_id_) then
-            send(msg.chat_id_, msg.id_, 1, "*•نسخه مورد استفاده شما تهیه شده توسط ناجی می باشد.\nبرای اطلاع از اپدیت به این کانال مراجعه فرمایید*: @i\\_Advertiser", 1,"md")
+            send(msg.chat_id_, msg.id_, 1, "برای اپدیت به کانال @komarafte مراجعه نمایید", 1,"md")
           else
-            send(msg.chat_id_, msg.id_, 1, "_• You are using the version provided by 'KOMA'_\n_Check out this Channel for updates :_ @i\\_Advertiser", 1, "md")
+            send(msg.chat_id_, msg.id_, 1, "_• You are using the version provided by 'KOMA'_\n_Check out this Channel for updates :_ @komarafte", 1, "md")
           end
         end
         if is_leader(msg) and (text:match("^[Vv]ersion$") or text:match("^نسخه فعلی$")) then
