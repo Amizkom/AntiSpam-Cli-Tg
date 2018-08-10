@@ -42,7 +42,7 @@
 <h4> <strong>[• ترمینال جدید دیگری را باز کرده و این دستورات را بزنید ]<br></strong>
 
 
-<span>cd eset<span>
+<span>cd koma1<span>
 <span>&& screen ./bot api<span>
 
 <h4> <strong>[• برای درست کردن امکانات فان دستورات زیر را بزنید ]<br></strong>
