@@ -8,8 +8,8 @@
 <h6>[• Inter line By line in Terminal ]</h6>
 <h6>[ این کد ها را وارد کنیید •)</h6>
 <pre>
-<span>git clone https://github.com/AsTaEbot/eset.git<span>
-<span>cd eset<span>
+<span>git clone https://github.com/komarafte/koma1.git<span>
+<span>cd koma1<span>
 <span>chmod +x bot<span>
 <span>./bot install<span>
 </pre>
@@ -50,13 +50,13 @@
 <span>cd eset && unzip data.zip<span>
 
 # • Developers!
-[AsTaE_BoT](https://github.com/AsTaE_BoT)
- ([Telegram](https://telegram.me/AsTaE_Bot))
+[koma](https://github.com/komarafte)
+ ([Telegram](https://telegram.me/amizkom))
  
-[M_a_h_D_i_R_o_O](https://github.com/M_a_h_D_i_R_o_O)
- ([Telegram](https://telegram.me/M_a_h_D_i_R_o_O))
+[KOMARAFTE](https://github.com/KOMARAFTE)
+ ([Telegram](https://telegram.me/AMIZKOM))
 
 ### • Our Telegram Channel:
 
-[@SShteam](https://telegram.me/SShteam)
+[@komARAFTE](https://telegram.me/KOMARAFTE)
 
