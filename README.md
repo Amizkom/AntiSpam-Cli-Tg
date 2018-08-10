@@ -25,7 +25,7 @@
 <span>./bot api<span>
 </pre>
 <h4>its done!Have fun</strong>
-<h4>[• تموم شد حال کنید دعا یادتون نرود فقط |: ]</strong>
+<h4>[• تشکر یادتون نرود فقط |: ]</strong>
 
 # • For Autolaunch
 
@@ -36,7 +36,7 @@
 <span>killall screen<span>
 <span>&& killall bash<span>
 <span>&& killalll tmux<span>
-<span>&& cd eset<span>
+<span>&& cd koma1<span>
 <span>&& screen ./bot cli<span>
 
 <h4> <strong>[• ترمینال جدید دیگری را باز کرده و این دستورات را بزنید ]<br></strong>
@@ -47,7 +47,7 @@
 
 <h4> <strong>[• برای درست کردن امکانات فان دستورات زیر را بزنید ]<br></strong>
 
-<span>cd eset && unzip data.zip<span>
+<span>cd koma1 && unzip data.zip<span>
 
 # • Developers!
 [koma](https://github.com/komarafte)
