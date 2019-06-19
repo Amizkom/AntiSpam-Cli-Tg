@@ -50,11 +50,11 @@
 
 <span>cd koma1 && unzip data.zip<span>
 
-# • Developers!
-[koma](https://github.com/komarafte)
- ([Telegram](https://telegram.me/amizkom))
+# • Assembled!
+[koma](https://github.com/Amizkom)
+ ([Telegram](https://telegram.me/Amizkom))
  
-[KOMARAFTE](https://github.com/KOMARAFTE)
+[KOMARAFTE](https://github.com/Amizkom)
  ([Telegram](https://telegram.me/AMIZKOM))
 
 ### • Our Telegram Channel:
